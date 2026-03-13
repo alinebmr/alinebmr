@@ -4,7 +4,7 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=alinebmr&show_icons=true&theme=holi" />
 </a>
 <a href="">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FLuiz22&layout=compact&theme=holi&langs_count=8&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinebmr&layout=compact&theme=holi&langs_count=8&card_width=320" />
 </a>
 
   
