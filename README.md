@@ -1,14 +1,12 @@
-### Hi there, i'm Aline Brito Maracajá
+### Hi there, I'm Aline Brito Maracajá 👋
 
-<a href="">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=alinebmr&show_icons=true&theme=holi" />
-</a>
-<a href="">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinebmr&layout=compact&theme=holi&langs_count=8&card_width=320" />
+<a href="https://github.com/alinebmr">
+  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=alinebmr&show_icons=true&theme=holi&cache_seconds=60" />
 </a>
 
-  
-  ##
+<a href="https://github.com/alinebmr">
+  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinebmr&layout=compact&theme=holi&langs_count=8&hide=html,css&cache_seconds=60" />
+</a>
  
 <div> 
   <a href="https://instagram.com/aline.bmr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
