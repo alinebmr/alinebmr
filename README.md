@@ -4,10 +4,6 @@
   <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=alinebmr&show_icons=true&theme=holi&cache_seconds=60" />
 </a>
 
-<a href="https://github.com/alinebmr">
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinebmr&layout=compact&theme=holi&langs_count=8&hide=html,css&cache_seconds=60" />
-</a>
-
 ##
  
 <div> 
